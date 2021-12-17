@@ -1,0 +1,198 @@
+[
+    {
+        "merged": "/Users/frankyin/Desktop/Notes/app/build/intermediates/merged_res/debug/drawable_background_note.xml.flat",
+        "source": "/Users/frankyin/Desktop/Notes/app/src/main/res/drawable/background_note.xml"
+    },
+    {
+        "merged": "/Users/frankyin/Desktop/Notes/app/build/intermediates/merged_res/debug/font_ubuntu_regular.ttf.flat",
+        "source": "/Users/frankyin/Desktop/Notes/app/src/main/res/font/ubuntu_regular.ttf"
+    },
+    {
+        "merged": "/Users/frankyin/Desktop/Notes/app/build/intermediates/merged_res/debug/drawable_ic_image.xml.flat",
+        "source": "/Users/frankyin/Desktop/Notes/app/src/main/res/drawable/ic_image.xml"
+    },
+    {
+        "merged": "/Users/frankyin/Desktop/Notes/app/build/intermediates/merged_res/debug/drawable_background_note_color_1.xml.flat",
+        "source": "/Users/frankyin/Desktop/Notes/app/src/main/res/drawable/background_note_color_1.xml"
+    },
+    {
+        "merged": "/Users/frankyin/Desktop/Notes/app/build/intermediates/merged_res/debug/layout_item_container_note.xml.flat",
+        "source": "/Users/frankyin/Desktop/Notes/app/src/main/res/layout/item_container_note.xml"
+    },
+    {
+        "merged": "/Users/frankyin/Desktop/Notes/app/build/intermediates/merged_res/debug/drawable_ic_ok.xml.flat",
+        "source": "/Users/frankyin/Desktop/Notes/app/src/main/res/drawable/ic_ok.xml"
+    },
+    {
+        "merged": "/Users/frankyin/Desktop/Notes/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/frankyin/Desktop/Notes/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/frankyin/Desktop/Notes/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/frankyin/Desktop/Notes/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/frankyin/Desktop/Notes/app/build/intermediates/merged_res/debug/xml_file_paths.xml.flat",
+        "source": "/Users/frankyin/Desktop/Notes/app/src/main/res/xml/file_paths.xml"
+    },
+    {
+        "merged": "/Users/frankyin/Desktop/Notes/app/build/intermediates/merged_res/debug/drawable_ic_identity.xml.flat",
+        "source": "/Users/frankyin/Desktop/Notes/app/src/main/res/drawable/ic_identity.xml"
+    },
+    {
+        "merged": "/Users/frankyin/Desktop/Notes/app/build/intermediates/merged_res/debug/drawable_ic_search.xml.flat",
+        "source": "/Users/frankyin/Desktop/Notes/app/src/main/res/drawable/ic_search.xml"
+    },
+    {
+        "merged": "/Users/frankyin/Desktop/Notes/app/build/intermediates/merged_res/debug/drawable_background_note_color_5.xml.flat",
+        "source": "/Users/frankyin/Desktop/Notes/app/src/main/res/drawable/background_note_color_5.xml"
+    },
+    {
+        "merged": "/Users/frankyin/Desktop/Notes/app/build/intermediates/merged_res/debug/drawable_ic_add_outline.xml.flat",
+        "source": "/Users/frankyin/Desktop/Notes/app/src/main/res/drawable/ic_add_outline.xml"
+    },
+    {
+        "merged": "/Users/frankyin/Desktop/Notes/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/frankyin/Desktop/Notes/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/frankyin/Desktop/Notes/app/build/intermediates/merged_res/debug/drawable_ic_delete.xml.flat",
+        "source": "/Users/frankyin/Desktop/Notes/app/src/main/res/drawable/ic_delete.xml"
+    },
+    {
+        "merged": "/Users/frankyin/Desktop/Notes/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/Users/frankyin/Desktop/Notes/app/src/main/res/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/frankyin/Desktop/Notes/app/build/intermediates/merged_res/debug/drawable_ic_done.xml.flat",
+        "source": "/Users/frankyin/Desktop/Notes/app/src/main/res/drawable/ic_done.xml"
+    },
+    {
+        "merged": "/Users/frankyin/Desktop/Notes/app/build/intermediates/merged_res/debug/drawable_background_add_button.xml.flat",
+        "source": "/Users/frankyin/Desktop/Notes/app/src/main/res/drawable/background_add_button.xml"
+    },
+    {
+        "merged": "/Users/frankyin/Desktop/Notes/app/build/intermediates/merged_res/debug/drawable_background_note_color_4.xml.flat",
+        "source": "/Users/frankyin/Desktop/Notes/app/src/main/res/drawable/background_note_color_4.xml"
+    },
+    {
+        "merged": "/Users/frankyin/Desktop/Notes/app/build/intermediates/merged_res/debug/drawable_ic_add.xml.flat",
+        "source": "/Users/frankyin/Desktop/Notes/app/src/main/res/drawable/ic_add.xml"
+    },
+    {
+        "merged": "/Users/frankyin/Desktop/Notes/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/frankyin/Desktop/Notes/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/frankyin/Desktop/Notes/app/build/intermediates/merged_res/debug/font_ubuntu_bold.ttf.flat",
+        "source": "/Users/frankyin/Desktop/Notes/app/src/main/res/font/ubuntu_bold.ttf"
+    },
+    {
+        "merged": "/Users/frankyin/Desktop/Notes/app/build/intermediates/merged_res/debug/layout_layout_delete_note.xml.flat",
+        "source": "/Users/frankyin/Desktop/Notes/app/src/main/res/layout/layout_delete_note.xml"
+    },
+    {
+        "merged": "/Users/frankyin/Desktop/Notes/app/build/intermediates/merged_res/debug/drawable_background_search.xml.flat",
+        "source": "/Users/frankyin/Desktop/Notes/app/src/main/res/drawable/background_search.xml"
+    },
+    {
+        "merged": "/Users/frankyin/Desktop/Notes/app/build/intermediates/merged_res/debug/drawable_text_underline.xml.flat",
+        "source": "/Users/frankyin/Desktop/Notes/app/src/main/res/drawable/text_underline.xml"
+    },
+    {
+        "merged": "/Users/frankyin/Desktop/Notes/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/frankyin/Desktop/Notes/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/frankyin/Desktop/Notes/app/build/intermediates/merged_res/debug/drawable_ic_back.xml.flat",
+        "source": "/Users/frankyin/Desktop/Notes/app/src/main/res/drawable/ic_back.xml"
+    },
+    {
+        "merged": "/Users/frankyin/Desktop/Notes/app/build/intermediates/merged_res/debug/drawable_background_subtitle_indicator.xml.flat",
+        "source": "/Users/frankyin/Desktop/Notes/app/src/main/res/drawable/background_subtitle_indicator.xml"
+    },
+    {
+        "merged": "/Users/frankyin/Desktop/Notes/app/build/intermediates/merged_res/debug/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/frankyin/Desktop/Notes/app/build/generated/res/pngs/debug/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/frankyin/Desktop/Notes/app/build/intermediates/merged_res/debug/drawable_background_done_button.xml.flat",
+        "source": "/Users/frankyin/Desktop/Notes/app/src/main/res/drawable/background_done_button.xml"
+    },
+    {
+        "merged": "/Users/frankyin/Desktop/Notes/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/frankyin/Desktop/Notes/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/frankyin/Desktop/Notes/app/build/intermediates/merged_res/debug/layout_activity_main.xml.flat",
+        "source": "/Users/frankyin/Desktop/Notes/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/frankyin/Desktop/Notes/app/build/intermediates/merged_res/debug/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/frankyin/Desktop/Notes/app/src/main/res/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/frankyin/Desktop/Notes/app/build/intermediates/merged_res/debug/drawable_ic_camera.xml.flat",
+        "source": "/Users/frankyin/Desktop/Notes/app/src/main/res/drawable/ic_camera.xml"
+    },
+    {
+        "merged": "/Users/frankyin/Desktop/Notes/app/build/intermediates/merged_res/debug/layout_layout_miscellaneous.xml.flat",
+        "source": "/Users/frankyin/Desktop/Notes/app/src/main/res/layout/layout_miscellaneous.xml"
+    },
+    {
+        "merged": "/Users/frankyin/Desktop/Notes/app/build/intermediates/merged_res/debug/drawable_background_note_color_3.xml.flat",
+        "source": "/Users/frankyin/Desktop/Notes/app/src/main/res/drawable/background_note_color_3.xml"
+    },
+    {
+        "merged": "/Users/frankyin/Desktop/Notes/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/frankyin/Desktop/Notes/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/frankyin/Desktop/Notes/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/Users/frankyin/Desktop/Notes/app/src/main/res/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/frankyin/Desktop/Notes/app/build/intermediates/merged_res/debug/font_ubuntu_medium.ttf.flat",
+        "source": "/Users/frankyin/Desktop/Notes/app/src/main/res/font/ubuntu_medium.ttf"
+    },
+    {
+        "merged": "/Users/frankyin/Desktop/Notes/app/build/intermediates/merged_res/debug/drawable_background_dialog.xml.flat",
+        "source": "/Users/frankyin/Desktop/Notes/app/src/main/res/drawable/background_dialog.xml"
+    },
+    {
+        "merged": "/Users/frankyin/Desktop/Notes/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/frankyin/Desktop/Notes/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/frankyin/Desktop/Notes/app/build/intermediates/merged_res/debug/drawable_background_delete.xml.flat",
+        "source": "/Users/frankyin/Desktop/Notes/app/src/main/res/drawable/background_delete.xml"
+    },
+    {
+        "merged": "/Users/frankyin/Desktop/Notes/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/frankyin/Desktop/Notes/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/frankyin/Desktop/Notes/app/build/intermediates/merged_res/debug/layout_activity_create_note.xml.flat",
+        "source": "/Users/frankyin/Desktop/Notes/app/src/main/res/layout/activity_create_note.xml"
+    },
+    {
+        "merged": "/Users/frankyin/Desktop/Notes/app/build/intermediates/merged_res/debug/drawable_ic_cancel.xml.flat",
+        "source": "/Users/frankyin/Desktop/Notes/app/src/main/res/drawable/ic_cancel.xml"
+    },
+    {
+        "merged": "/Users/frankyin/Desktop/Notes/app/build/intermediates/merged_res/debug/drawable_background_miscellaneous.xml.flat",
+        "source": "/Users/frankyin/Desktop/Notes/app/src/main/res/drawable/background_miscellaneous.xml"
+    },
+    {
+        "merged": "/Users/frankyin/Desktop/Notes/app/build/intermediates/merged_res/debug/drawable_background_note_color_2.xml.flat",
+        "source": "/Users/frankyin/Desktop/Notes/app/src/main/res/drawable/background_note_color_2.xml"
+    },
+    {
+        "merged": "/Users/frankyin/Desktop/Notes/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/Users/frankyin/Desktop/Notes/app/src/main/res/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/frankyin/Desktop/Notes/app/build/intermediates/merged_res/debug/layout_user_information_display.xml.flat",
+        "source": "/Users/frankyin/Desktop/Notes/app/src/main/res/layout/user_information_display.xml"
+    }
+]
