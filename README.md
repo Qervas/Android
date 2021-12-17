@@ -20,3 +20,9 @@ To switch branch
 ```
 git checkout <branch_name>
 ```
+
+Or change by GUI clicks
+![GUI-clicks](./branchChangeGUI.png)
+<br>
+![Example-result](./Example.png)
+
