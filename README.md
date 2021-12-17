@@ -4,9 +4,9 @@ Check project files in its branch. There's only basic information in the main br
 
 
 - [x] Calculator(100%)
-- [] Journal(80%)
-- [] Weather(0%)
-- [] Media Player(0%)
+- [x] Journal(100%)
+- [x] Weather(100%)
+- [x] Media Player(100%)
 
 To list all branch
 
