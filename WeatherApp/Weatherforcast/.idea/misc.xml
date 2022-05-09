@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Chrome-Edge/IDEA/Android Studio_workSpace/Weatherforcast/app/src/main/res/drawable/ic_dashboard_black_24dp.xml" value="0.21851851851851853" />
+        <entry key="..\:/Chrome-Edge/IDEA/Android Studio_workSpace/Weatherforcast/app/src/main/res/drawable/ic_home_black_24dp.xml" value="0.22314814814814815" />
+        <entry key="..\:/Chrome-Edge/IDEA/Android Studio_workSpace/Weatherforcast/app/src/main/res/drawable/ic_notifications_black_24dp.xml" value="0.1" />
+        <entry key="..\:/Chrome-Edge/IDEA/Android Studio_workSpace/Weatherforcast/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Chrome-Edge/IDEA/Android Studio_workSpace/Weatherforcast/app/src/main/res/layout/activity_weather.xml" value="0.1" />
+        <entry key="..\:/Chrome-Edge/IDEA/Android Studio_workSpace/Weatherforcast/app/src/main/res/layout/choose_area.xml" value="0.17883211678832117" />
+        <entry key="..\:/Chrome-Edge/IDEA/Android Studio_workSpace/Weatherforcast/app/src/main/res/layout/forecast.xml" value="0.264" />
+        <entry key="..\:/Chrome-Edge/IDEA/Android Studio_workSpace/Weatherforcast/app/src/main/res/layout/forecast_item.xml" value="0.25364583333333335" />
+        <entry key="..\:/Chrome-Edge/IDEA/Android Studio_workSpace/Weatherforcast/app/src/main/res/layout/fragment_dashboard.xml" value="0.25364583333333335" />
+        <entry key="..\:/Chrome-Edge/IDEA/Android Studio_workSpace/Weatherforcast/app/src/main/res/layout/fragment_home.xml" value="0.25364583333333335" />
+        <entry key="..\:/Chrome-Edge/IDEA/Android Studio_workSpace/Weatherforcast/app/src/main/res/layout/fragment_notifications.xml" value="0.25364583333333335" />
+        <entry key="..\:/Chrome-Edge/IDEA/Android Studio_workSpace/Weatherforcast/app/src/main/res/layout/myconcern_list.xml" value="0.25364583333333335" />
+        <entry key="..\:/Chrome-Edge/IDEA/Android Studio_workSpace/Weatherforcast/app/src/main/res/layout/title.xml" value="0.25364583333333335" />
+        <entry key="..\:/Chrome-Edge/IDEA/Android Studio_workSpace/Weatherforcast/app/src/main/res/menu/bottom_nav_menu.xml" value="0.25364583333333335" />
+        <entry key="app/src/main/res/drawable-v24/list_bg.xml" value="0.27447916666666666" />
+        <entry key="app/src/main/res/drawable/ic_home.xml" value="0.20729166666666668" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.34791666666666665" />
+        <entry key="app/src/main/res/layout/activity_weather.xml" value="0.34791666666666665" />
+        <entry key="app/src/main/res/layout/choose_area.xml" value="0.25416666666666665" />
+        <entry key="app/src/main/res/layout/forecast.xml" value="0.25416666666666665" />
+        <entry key="app/src/main/res/layout/forecast_item.xml" value="0.25416666666666665" />
+        <entry key="app/src/main/res/layout/myconcern_list.xml" value="0.25416666666666665" />
+        <entry key="app/src/main/res/layout/title.xml" value="0.34791666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -8,21 +8,4 @@ Check project files in its branch. There's only basic information in the main br
 - [x] Weather(100%)
 - [x] Media Player(100%)
 
-To list all branch
-
-```
-git branch -a
-```
-
-
-To switch branch 
-
-```
-git checkout <branch_name>
-```
-
-Or change by GUI clicks
-![GUI-clicks](./branchChangeGUI.png)
-<br>
-![Example-result](./Example.png)
-
+All git branch merged into one.
