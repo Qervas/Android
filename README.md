@@ -24,3 +24,4 @@ Check project files in its branch. There's only basic information in the main br
 
 All git branch merged into one.
 
+Thanks to online Android tutorials.
